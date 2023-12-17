@@ -42,7 +42,7 @@ If you are really curious about the ticket number of the last winner, the contra
 The contract owner has the following abilities:
 1. `Change max players in round. (from 1 to 100)`
 2. `Change min bet. (from 1 to 100 TONs)`
-3. `Change fee percent (from 1 to 5).` 5% is max.
+3. `Change fee percent. (from 1 to 5)` 5% is max.
 4. `Moving funds from a smart contract balance.`
 
 **It is important to note that the owner cannot transfer funds that are in an active round. Only funds remaining on the contract balance as fees can be transferred.**
