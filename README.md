@@ -14,7 +14,7 @@ The amount of tickets the sender receives in this round is proportional to the a
 `tickets = nanoTONs / 100000`
 
 - `1 TON = 1000000000 nanoTONs = 10000 tickets.`
-- `3.58293923 TON = 3582939238 nanoTONs = 35829 tickets.`
+- `3.58293923 TON = 3582939230 nanoTONs = 35829 tickets.`
 
 During transaction processing, the smart contract subtracts 0.02 TON (average gas cost) from the transaction amount and adds the result to the jackpot.
 `(Transfer of 1 ton = 1 - 0.02 = 0.98 = 9800 tickets)`
