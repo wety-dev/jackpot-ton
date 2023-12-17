@@ -11,7 +11,7 @@ Your transfer will be validated in several steps:
 
 The amount of tickets the sender receives in this round is proportional to the amount of TON sent.
 
-`tikcets = nanoTONs / 100000`
+`tickets = nanoTONs / 100000`
 
 - `1 TON = 1000000000 nanoTONs = 10000 tickets.`
 - `3.58293923 TON = 3582939238 nanoTONs = 35829 tickets.`
