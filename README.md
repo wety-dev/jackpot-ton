@@ -2,6 +2,12 @@
 
 ## Jackpot.ton
 
+Contract address: `EQD2PxztdUiYWLyA-9GkBY0fFtebIStuVxXggJ5z_3LuKb9T`<br>
+
+Website link: https://jackpot-ton.com<br>
+
+You can send transfers to `jackpot.ton`
+
 By sending TON to the contract address, the sender joins the current round.
 
 Your transfer will be validated in several steps:
