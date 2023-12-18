@@ -2,7 +2,7 @@
 
 ## Jackpot.ton
 
-By sending TON to a contract address, the sender joins the current round.
+By sending TON to the contract address, the sender joins the current round.
 
 Your transfer will be validated in several steps:
 1. `Transfer value >= minimum bet.`
@@ -37,13 +37,13 @@ The contract must gather the required number of participants to complete a round
 You can only blame the randomizer for not winning.
 [randomizeLt](https://docs.ton.org/develop/smart-contracts/guidelines/random-number-generation#simply-use-randomize_lt).
 
-If you are really curious about the ticket number of the last winner, the contract has a function called get_winner_ticket.
+If you are curious about the ticket number of the last winner, the contract has a function called get_winner_ticket.
 
 The contract owner has the following abilities:
 1. `Change max players in round. (from 1 to 100)`
 2. `Change min bet. (from 1 to 100 TONs)`
 3. `Change fee percent. (from 1 to 5)` 5% is max.
-4. `Moving funds from a smart contract balance.`
+4. `Transferring funds from a smart contract balance.`
 
 **It is important to note that the owner cannot transfer funds that are in an active round. Only funds remaining on the contract balance as fees can be transferred.**
 
