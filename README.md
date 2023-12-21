@@ -4,7 +4,9 @@
 
 Contract address: `EQD2PxztdUiYWLyA-9GkBY0fFtebIStuVxXggJ5z_3LuKb9T`<br>
 
-Website link: https://jackpot-ton.com<br>
+[Website](https://jackpot-ton.com)
+
+[Telegram mini app](https://t.me/jackpot_ton_bot/Jackpot_ton)
 
 You can send transfers to `jackpot.ton`
 
