@@ -2,7 +2,7 @@
 
 ## Jackpot.ton
 
-Contract address: `EQD2PxztdUiYWLyA-9GkBY0fFtebIStuVxXggJ5z_3LuKb9T`<br>
+This is OLD version of contract. (TACT)
 
 [Website](https://jackpot-ton.com)
 
